@@ -74,9 +74,7 @@ const erick = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erickn-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickn-dev&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img src="./github-metrics.svg" width="100%"/>
 
 </div>
 
@@ -89,16 +87,6 @@ const erick = {
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erickn-dev&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&hide_border=true)](https://github.com/erickn-dev)
-
-</div>
-
----
-
-## Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=erickn-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
