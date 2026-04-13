@@ -82,7 +82,7 @@ const erick = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=erickn-dev&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=erickn-dev&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
 
 </div>
 
@@ -99,6 +99,20 @@ const erick = {
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=erickn-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+---
+
+## Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erickn-dev/erickn-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erickn-dev/erickn-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/erickn-dev/erickn-dev/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
