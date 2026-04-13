@@ -106,18 +106,6 @@ const erick = {
 
 ---
 
-## Onde me encontrar
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-erickn--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erickn-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Erick%20Novaes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ericknovaes)
-[![Email](https://img.shields.io/badge/Email-contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erick@email.com)
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=erickn-dev&color=7c3aed&style=for-the-badge&label=VISITAS+AO+PERFIL)
