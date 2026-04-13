@@ -20,9 +20,10 @@ const erick = {
   role:     "Full Stack Developer",
   location: "Brasil 🇧🇷",
   stack: {
-    backend:  ["Node.js", "PHP", "REST APIs"],
+    backend:  ["Node.js", "PHP", "Symfony", "Python", "REST APIs"],
     frontend: ["React.js", "TanStack Router", "TypeScript"],
     database: ["MySQL", "PostgreSQL"],
+    tools:    ["Docker", "Git", "Linux", "VSCode", "Nginx"],
     arch:     ["DDD", "Clean Architecture", "Modular Monolith"],
   },
   currently: "Construindo software que escala e é fácil de manter",
@@ -35,7 +36,7 @@ const erick = {
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,ts,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,symfony,ts,js,py&theme=dark" />
 </p>
 
 ### Frontend
@@ -45,7 +46,7 @@ const erick = {
 
 ### Banco de Dados
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 </p>
 
 ### DevOps & Ferramentas
